@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.1</version>
+    <version>1.0.1.0</version>
     <url>https://github.com/Pureaznangel/GameShow4.0/raw/master/Release.zip</url>
     <changelog>https://github.com/Pureaznangel/GameShow4.0/releases</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
